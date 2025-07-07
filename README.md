@@ -25,5 +25,16 @@
 
 🌟 I’m currently working on building my GitHub portfolio with projects related to data and sustainability.  
 
+---
+
+📁 My Portfolio Repository: [View here](https://github.com/kornelia053/Portfolio)
+
+Inside, you’ll find:
+- Final project presentation from the "Data Analytics with Python" course
+- Example notebooks and analyses
+- Data visualization and storytelling examples
+
+I'm continuously expanding this portfolio as I learn and grow as a data analyst!
+
 
 
