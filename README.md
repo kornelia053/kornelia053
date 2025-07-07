@@ -24,6 +24,6 @@
 ---
 
 🌟 I’m currently working on building my GitHub portfolio with projects related to data and sustainability.  
-Feel free to check out my [Portfolio Repository](https://github.com/kornelia053/data-analyst-portfolio)!
+
 
 
