@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋 I'm Kornelia!
 
-<!--
-**kornelia053/kornelia053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Eco-energy engineer turned aspiring **Data Analyst**, passionate about sustainability, clean tech and using data for good.
 
-Here are some ideas to get you started:
+🌍 I'm especially interested in:
+- ♻️ Waste-to-energy & renewable energy systems  
+- 📊 Data analytics for environment & energy projects  
+- 🌱 Green innovation powered by data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I recently completed:
+- 💻 [ReDI School](https://www.redi-school.org/) – *Coding Fundamentals* & *Data Analytics with Python*  
+- 📈 Projects in HR analytics, social media activity (Yammer), and agriculture (lettuce growth trends)
+
+🔧 Tech I use:
+- `Python` | `Pandas` | `Seaborn` | `Jupyter` | `SQL` | ` Google Colab`| ` Tableau Public`| ` Mode`
+
+---
+
+### 🚀 Let's connect!
+- 🔗 [LinkedIn](https://linkedin.com/in/kornelia-weihs-577006162)  
+- 🧪 [Kaggle](https://https://www.kaggle.com/korneliaweihs)  
+- 📬 Reach me at: **kornelia.kostus@gmail.com**
+
+---
+
+🌟 I’m currently working on building my GitHub portfolio with projects related to data and sustainability.  
+Feel free to check out my [Portfolio Repository](https://github.com/kornelia053/data-analyst-portfolio)!
+
+
